@@ -1,2 +1,2 @@
 # PackageManager
-JetPack Compose Learning
+JetPack Compose Learning using AI
